@@ -2,7 +2,7 @@ public class Cafetera {
     private int capacidadMaxima;
     private int cantidadActual;
 
-    
+
     public Cafetera() {
         this.capacidadMaxima = 1000;
         this.cantidadActual = 0;
